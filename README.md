@@ -1,5 +1,8 @@
-# Software packge
-Anti virus quality testing and bypassing hack kit
+# F.A.Q
+
+# Antivirus-bypass-software
+- Anti virus bypassing software
+- Test quality and performance assurance of any anti virus
 
 # Windows and Kali
 - Kali: wine virus_hack.exe
