@@ -9,7 +9,7 @@ Anti virus quality testing and bypassing hack kit
 - Add your compiled virus file, that could be python or perl or c program compiled exe or anything
 - Enter bytes and use random box check
 
-# File binder software
+# File compiler software
 - You can combine two files into one 
 
  # Proper method
