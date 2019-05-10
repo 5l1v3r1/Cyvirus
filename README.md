@@ -31,8 +31,17 @@ Antivirus-byass-software in action
  - Merge two files from filecompiler.exe <cleanprogram> <virus> <new output name>
  - Load virus_hack.exe, enter 1999900 Bytes and click Random
  
-# Anti virus bypassing ratio
-1. 90% anti virus will get confuse and bypass our virus, that goes for top of the name brands anti viruses
+# Features
+- 90% anti virus will get confuse and bypass virus
+- Bypass top brands anti viruses
+‪- Bypass 100% security in seconds‬
+‪- Temper any virus‬
+‪- Create tcp shells‬
+‪- Compile scripts‬
+‪- Powerful evasions‬
+‪- Bind shells‬
+‪- Bind file with file for new file‬
+‪- Kali and windows compiled‬
 
 # Contact
 mrharoonawan@gmail.com
