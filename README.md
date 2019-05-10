@@ -32,7 +32,6 @@ EULA
  - Load virus_hack.exe, enter 1999900 Bytes and click Random
  
 # Features
-- 90% anti virus will get confuse and bypass virus
 - Bypass top brands anti viruses
 ‪- Bypass 100% security in seconds‬
 ‪- Temper any virus‬
@@ -41,7 +40,9 @@ EULA
 ‪- Powerful evasions‬
 ‪- Bind shells‬
 ‪- Bind file with file for new file‬
-‪- Kali and windows compiled‬
+‪- Kali/Windows compiled
+- Audit anti virus
+- Test quality of anti virus
 
 
 # Contact
