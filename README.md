@@ -11,6 +11,10 @@ EULA
     <img src="http://oi65.tinypic.com/am3aza.jpg" width="400px"</img> 
 </div>
 
+# Read EULA Agreement
+- Your bound to agree EULA before using this software
+- Not responsible for anyone's abuse using the software
+
 # Windows and Kali usages
 - Kali: wine virus_hack.exe
 - Kali: wine filecompiler.exe
@@ -18,8 +22,9 @@ EULA
 - Windows: filecompiler.exe
 
 # virus_hack file
-- Add your compiled virus file, that could be python or perl or c program compiled exe or anything
-- Enter bytes and use random box check
+- Add your compiled virus file, that would be .exe format
+- Enter random bytes to fill in executable file
+- Click on use random box
 
 # compiler file
 - Merge two files into one 
