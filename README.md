@@ -1,9 +1,7 @@
 # F.A.Q
 
 # Cyvirus
-- Anti virus bypassing software
-- Test quality and performance assurance of any anti virus
-- Not responsible for user’s action
+- AI based anti virus swiss knife
 
 # LICENSE
 EULA
@@ -32,18 +30,15 @@ EULA
  - Load virus_hack.exe, enter 1999900 Bytes and click Random
  
 # Features
-- Bypass top brands anti viruses
-‪- Bypass 100% security in seconds‬
-‪- Temper any virus‬
-‪- Create tcp shells‬
-‪- Compile scripts‬
-‪- Powerful evasions‬
-‪- Bind shells‬
-‪- Bind file with file for new file‬
-‪- Kali/Windows compiled
+- Bypass 100% top brands anti virus
+‪- Tamper any virus‬
+- Create scripts or tcp shells‬
+- Powerful evasions‬
+- Bind shells‬
+- Bind file with file for new file‬
+- Kali/Windows compiled
 - Audit anti virus
 - Test quality of anti virus
-
 
 # Contact
 mrharoonawan@gmail.com
